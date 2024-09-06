@@ -1,0 +1,7 @@
+personal_id,name,father_name,parent_id,profession,date_of_birth,date_of_death
+1,Hameed,,0,Engineer,1950-01-01,
+2,Naveed,Hameed,1,Doctor,1975-01-01,
+3,Shahid,Hameed,1,Artist,1980-01-01,
+4,Bilal,Hameed,1,Artist,1980-01-01,
+5,Taha,Naveed,2,Artist,1980-01-01,
+6,Urhaan,Naveed,2,Artist,1980-01-01,
